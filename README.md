@@ -1,0 +1,3 @@
+# JavaScript
+JavaScript is the programming language of the Web. 
+I am learning JavaScript and this repo is to represent my JavaScript journey from zero to advance...

@@ -184,7 +184,7 @@ async await
 us then ko lagane se bachne ke liye, aap async await ka istemal kar sakta hai. */
 
 // async function abcd(){
-//     let raw = await fetch(`https://randomuser.me/api/`)
+//     let raw = await fetch(`https://randomuser.me/api/`)  // from : randomapi.me
 //     let ans = await raw.json();
 //     console.log(ans); // pending 
 
@@ -205,3 +205,5 @@ us then ko lagane se bachne ke liye, aap async await ka istemal kar sakta hai. *
 //concurrency => js mein sync code and async ek saath process ho raha tha ye hai concurrency
 //parallelism =>  focus jaada karta hai different processors and unke cores par kaam ko chalaane par
 //throttling => kisi code ko control karna number of executions
+
+
